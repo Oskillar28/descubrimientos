@@ -50,7 +50,7 @@ In February 2014, Grönqvist watched his friend die trapped in a restriction 110
 The two cases are opposites, and that is why each one explains the other:
 
 - At **Vaavu**, a group with **no cave training** went in with recreational gear and died from lack of preparation.
-- At **Plura**, five divers with **the highest training that exists** (full cave on rebreather) died or nearly died on a dive planned in detail. Plura shows that at those depths **a residual risk remains even when everything is done right**.
+- At **Plura**, five divers with **the highest training that exists** (full cave on rebreather) died or nearly died on a dive planned in detail. Plura shows that at those depths **a residual risk remains even when almost everything is done right**.
 
 ---
 
@@ -286,7 +286,7 @@ This question is harder than for Vaavu, because here **almost everything was don
 | Good practice | Done? |
 |---|---|
 | Full cave training on rebreather | ✅ All five |
-| Rebreather with bailout gas for that depth | ✅ (each diver's exact mix has not been published) |
+| Rebreather with suitable gas for that depth | ✅ (each diver's exact mix has not been published) |
 | Bailout gas and rebreathers | ✅ |
 | Guideline on the route | ✅ There was a line: Rantanen's fin caught on it |
 | Small teams, letting silt settle | ✅ Two teams two hours apart |
@@ -370,7 +370,7 @@ They kept it **secret** because they believed police would stop them diving if t
 | Deaths | 2 | 5 + 1 rescuer |
 | First recovery attempt | British divers: **called off** as too dangerous | Maldivian military divers: **one died** |
 | Who brought the bodies out | **Paakkarinen and Grönqvist** (and others) | **Paakkarinen, Grönqvist** and Westerlund (DAN Europe) |
-| Lesson | Risk remains even when everything is done right | Without preparation, the risk is almost a certainty |
+| Lesson | Risk remains even when almost everything is done right | Without preparation, the risk is almost a certainty |
 
 ![Closed-circuit rebreather](https://upload.wikimedia.org/wikipedia/commons/3/30/Plongee-RecycleurInspiration_20040221-153656.jpg)
 *An Inspiration closed-circuit rebreather, one of the models seen in the documentary. Photo: EMDX, CC BY-SA 4.0, via Wikimedia Commons.*

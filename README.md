@@ -50,7 +50,7 @@ En febrero de 2014, Grönqvist vio morir a su amigo atrapado en un estrechamient
 Los dos casos son opuestos y por eso se explican el uno al otro:
 
 - En **Vaavu**, un grupo **sin formación de cuevas** entró con equipo de turismo y murió por falta de preparación.
-- En **Plura**, cinco buceadores **con la formación más alta que existe** (espeleobuceo completo con *rebreather*) murieron o casi mueren en una inmersión planificada al detalle. Plura enseña que, a esas profundidades, **incluso haciéndolo todo bien queda un riesgo que no se puede eliminar**.
+- En **Plura**, cinco buceadores **con la formación más alta que existe** (espeleobuceo completo con *rebreather*) murieron o casi mueren en una inmersión planificada al detalle. Plura enseña que, a esas profundidades, **incluso haciéndolo casi todo bien queda un riesgo que no se puede eliminar**.
 
 ---
 
@@ -286,7 +286,7 @@ Esta pregunta es más difícil que en Vaavu, porque aquí **casi todo se hizo bi
 | Buena práctica | ¿Se hizo? |
 |---|---|
 | Formación completa de cuevas con *rebreather* | ✅ Los cinco |
-| *Rebreather* con gas de rescate para esa profundidad | ✅ (la mezcla exacta de cada uno no se ha publicado) |
+| *Rebreather* con gas adecuado para esa profundidad | ✅ (la mezcla exacta de cada uno no se ha publicado) |
 | Gas y *rebreathers* de rescate | ✅ |
 | Hilo guía en la ruta | ✅ Había hilo: a Rantanen se le enganchó una aleta en él |
 | Equipos pequeños y dejar posar el sedimento | ✅ Dos equipos separados dos horas |
@@ -370,7 +370,7 @@ Lo mantuvieron en **secreto** porque creían que, si la policía se enteraba, le
 | Muertos | 2 | 5 + 1 rescatador |
 | Primer intento de recuperación | Buzos británicos: **abandonado** por peligroso | Buzos militares maldivos: **murió uno** |
 | Quién sacó los cuerpos | **Paakkarinen y Grönqvist** (y otros) | **Paakkarinen, Grönqvist** y Westerlund (DAN Europe) |
-| Lección | Incluso haciéndolo todo bien queda riesgo | Sin preparación, el riesgo es casi seguro |
+| Lección | Incluso haciéndolo casi todo bien queda riesgo | Sin preparación, el riesgo es casi seguro |
 
 ![Rebreather de circuito cerrado](https://upload.wikimedia.org/wikipedia/commons/3/30/Plongee-RecycleurInspiration_20040221-153656.jpg)
 *Rebreather de circuito cerrado modelo Inspiration, uno de los modelos que aparecen en el documental. Foto: EMDX, CC BY-SA 4.0, vía Wikimedia Commons.*
