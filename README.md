@@ -156,7 +156,7 @@ timeline
 1. Pasan la parte más profunda (~130 m) y empiezan a subir.
 2. Grönqvist cruza un estrechamiento y, al mirar atrás, ve la linterna de Huotarinen moviéndose arriba y abajo: la señal de **problema**.
 3. Vuelve. Huotarinen está **atascado**: el cable que lo une a su *scooter* se ha enganchado bajo una roca. El *scooter* acaba arrancado y perdido.
-4. Huotarinen pide gas de circuito abierto (*bailout*). Grönqvist le pasa su propia boquilla dos o tres veces. En un momento en que se queda sin boquilla, Grönqvist purga un regulador para dárselo, pero **Huotarinen inhala agua y muere**.
+4. Su botella de rescate se había dejado unos 12 m más adelante, junto al *scooter*, así que Huotarinen pide gas de circuito abierto (*bailout*) a su compañero. Grönqvist le pasa su propia boquilla dos o tres veces. En un momento en que se queda sin boquilla, Grönqvist purga un regulador para dárselo, pero **Huotarinen inhala agua y muere**.
 5. El ordenador de Grönqvist marca **más de 400 minutos** de descompresión obligatoria. Decide seguir hacia Steinugleflåget.
 
 ### 5.2 Equipo 2: Känkänen, Rantanen y Jari U.
@@ -287,7 +287,7 @@ Esta pregunta es más difícil que en Vaavu, porque aquí **casi todo se hizo bi
 |---|---|
 | Formación completa de cuevas con *rebreather* | ✅ Los cinco |
 | *Rebreather* con gas adecuado para esa profundidad | ✅ (la mezcla exacta de cada uno no se ha publicado) |
-| Gas y *rebreathers* de rescate | ✅ |
+| Gas y *rebreathers* de rescate | ⚠️ Lo llevaban, pero no siempre a mano: la botella de rescate de Huotarinen estaba unos 12 m más adelante, junto al *scooter*, y tuvo que respirar de la boquilla de Grönqvist. El *rebreather* de reserva era uno por equipo, no uno por buceador |
 | Hilo guía en la ruta | ✅ Había hilo: a Rantanen se le enganchó una aleta en él |
 | Equipos pequeños y dejar posar el sedimento | ✅ Dos equipos separados dos horas |
 | Apoyo en superficie | ❌ Solo dejaron ropa y equipo en Steinugleflåget. Nadie esperaba fuera: la alarma no se dio hasta las 2 de la madrugada, unas 14 h después de entrar el primer equipo |
@@ -297,11 +297,12 @@ Esta pregunta es más difícil que en Vaavu, porque aquí **casi todo se hizo bi
 | **Más experiencia previa en esa ruta** antes de intentar la travesía | Para Huotarinen era la primera travesía, y Jari U. no había buceado nunca en Plura. La travesía solo se había hecho una vez, cinco meses antes |
 | **Configuración más «limpia»** en los pasos estrechos | Nada colgando: cables del *scooter* recogidos o soltables con una mano, botellas bien sujetas. Un mosquetón que se suelta rápido puede salvar una vida |
 | **Menos gas denso** (más helio) en el tramo profundo | Bajar la densidad reduce el riesgo de CO₂ y el esfuerzo respiratorio. A 130 m es difícil llegar a valores seguros (ver [§6.2](#62-por-qué-no-se-puede-respirar-aire-ahí-abajo)) |
+| **Gas de rescate siempre encima** | En una cueva, cada buceador lleva su propio gas de rescate sujeto al cuerpo en todo momento. Si se deja atrás o se adelanta, en una emergencia depende del compañero |
 | **Un equipo de apoyo en superficie** con hora límite de alarma | Si nadie espera fuera, nadie avisa cuando un equipo no sale a la hora prevista. Aquí la alarma tardó unas 14 h y Känkänen encontró el agujero del hielo cerrado otra vez |
 | **Comunicación entre equipos** | El equipo 2 no sabía que el paso estaba bloqueado. En una cueva de 2 km no hay forma sencilla de avisar: solo dejar marcas o notas en el hilo |
 | **Aceptar que el objetivo tiene un riesgo residual alto** | Una travesía de 2 km a 130 m y 2 °C está en el límite de lo que se puede hacer. Los propios protagonistas lo dicen en el documental |
 
-> 🧭 **Diferencia clave con Vaavu:** en Vaavu, **una sola** capa de seguridad bien puesta (un hilo guía, una segunda botella, una regla de los tercios) probablemente los habría salvado. En Plura estaban **casi todas** las capas (faltó el apoyo en superficie), y aun así un cable enganchado bastó para empezar la cadena. Por eso el espeleobuceo profundo sigue siendo una de las actividades más peligrosas del mundo.
+> 🧭 **Diferencia clave con Vaavu:** en Vaavu, **una sola** capa de seguridad bien puesta (un hilo guía, una segunda botella, una regla de los tercios) probablemente los habría salvado. En Plura estaban **casi todas** las capas (fallaron el apoyo en superficie y tener el gas de rescate a mano), y aun así un cable enganchado bastó para empezar la cadena. Por eso el espeleobuceo profundo sigue siendo una de las actividades más peligrosas del mundo.
 
 ![Buceador de cuevas desplegando un hilo guía](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cave_diver_running_a_reel.jpg)
 *Buceador de cuevas desenrollando un hilo guía. En Plura el hilo estaba instalado: el peligro fue otro. Foto: Ryan Cantey, CC BY-SA 3.0, vía Wikimedia Commons.*
@@ -487,7 +488,7 @@ Un detalle curioso: se cree que **no hay peces** en la cueva, pero en una escena
 1. **La formación no elimina el riesgo; lo reduce.** A 130 m y 2 °C, el margen es de minutos.
 2. **Nada debe colgar en un paso estrecho.** Todo cable o correa debe poder soltarse con una mano.
 3. **Un *rebreather* tiene límites físicos.** Gas denso + respiración agitada = CO₂. Controlar la respiración es parte del equipo.
-4. **Practica el cambio a gas de rescate** hasta que sea automático, también atrapado y en mala postura.
+4. **Lleva siempre tu gas de rescate encima y practica el cambio** hasta que sea automático, también atrapado y en mala postura.
 5. **Experiencia progresiva en cada ruta.** La primera travesía no debería ser la más profunda de tu vida.
 6. **Cada buceador debe poder salir solo.** Los tres supervivientes lo hicieron.
 7. **En un rescate, la primera vida es la del rescatador.** Los británicos lo aplicaron en 2014; en Vaavu, en 2026, se aprendió por las malas.

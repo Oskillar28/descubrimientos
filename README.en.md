@@ -156,7 +156,7 @@ timeline
 1. They pass the deepest part (~130 m) and start climbing.
 2. Grönqvist passes a restriction and, looking back, sees Huotarinen's torch moving up and down: the **distress** signal.
 3. He goes back. Huotarinen is **stuck**: the leash tying him to his scooter has caught under a rock. The scooter is eventually torn free and lost.
-4. Huotarinen asks for open-circuit bailout gas. Grönqvist hands him his own mouthpiece two or three times. When Huotarinen is left without one, Grönqvist purges a regulator to give him, but **Huotarinen inhales water and dies**.
+4. His bailout cylinder had been left about 12 m ahead, next to the scooter, so Huotarinen asks his buddy for open-circuit bailout gas. Grönqvist hands him his own mouthpiece two or three times. When Huotarinen is left without one, Grönqvist purges a regulator to give him, but **Huotarinen inhales water and dies**.
 5. Grönqvist's computer shows **more than 400 minutes** of mandatory decompression. He decides to continue towards Steinugleflåget.
 
 ### 5.2 Team 2: Känkänen, Rantanen and Jari U.
@@ -287,7 +287,7 @@ This question is harder than for Vaavu, because here **almost everything was don
 |---|---|
 | Full cave training on rebreather | ✅ All five |
 | Rebreather with suitable gas for that depth | ✅ (each diver's exact mix has not been published) |
-| Bailout gas and rebreathers | ✅ |
+| Bailout gas and rebreathers | ⚠️ Carried, but not always within reach: Huotarinen's bailout cylinder was about 12 m ahead, next to the scooter, and he had to breathe from Grönqvist's mouthpiece. The spare rebreather was one per team, not one per diver |
 | Guideline on the route | ✅ There was a line: Rantanen's fin caught on it |
 | Small teams, letting silt settle | ✅ Two teams two hours apart |
 | Surface support | ❌ They only left clothes and gear at Steinugleflåget. Nobody waited outside: the alarm was not raised until 2 a.m., about 14 h after the first team went in |
@@ -297,11 +297,12 @@ This question is harder than for Vaavu, because here **almost everything was don
 | **More prior experience on that route** before attempting the traverse | It was Huotarinen's first traverse, and Jari U. had never dived Plura. The traverse had been done only once, five months earlier |
 | **A "cleaner" configuration** for tight passages | Nothing dangling: scooter leashes stowed or releasable with one hand, cylinders well secured. A quick-release clip can save a life |
 | **Less dense gas** (more helium) on the deep section | Lower density reduces CO₂ risk and breathing effort. At 130 m safe values are hard to reach (see [§6.2](#62-why-you-cannot-breathe-air-down-there)) |
+| **Bailout gas always on the diver** | In a cave every diver keeps their own bailout clipped to their body at all times. If it is left behind or sent ahead, in an emergency they depend on their buddy |
 | **A surface support team** with an alarm deadline | If nobody waits outside, nobody raises the alarm when a team is overdue. Here it took about 14 h, and Känkänen found the hole in the ice frozen over again |
 | **Communication between teams** | Team 2 did not know the passage was blocked. In a 2 km cave there is no simple way to warn others: only marks or notes on the line |
 | **Accepting the goal carries high residual risk** | A 2 km traverse at 130 m and 2 °C is at the limit of the possible. The protagonists say so themselves in the documentary |
 
-> 🧭 **Key difference from Vaavu:** at Vaavu, **one** properly placed safety layer (a guideline, a second cylinder, the rule of thirds) would probably have saved them. At Plura **almost every** layer was in place (surface support was missing), and still a snagged leash was enough to start the chain. That is why deep cave diving remains one of the most dangerous activities in the world.
+> 🧭 **Key difference from Vaavu:** at Vaavu, **one** properly placed safety layer (a guideline, a second cylinder, the rule of thirds) would probably have saved them. At Plura **almost every** layer was in place (surface support and bailout within reach were missing), and still a snagged leash was enough to start the chain. That is why deep cave diving remains one of the most dangerous activities in the world.
 
 ![Cave diver running a guideline](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cave_diver_running_a_reel.jpg)
 *A cave diver running a guideline. At Plura the line was in place: the danger was something else. Photo: Ryan Cantey, CC BY-SA 3.0, via Wikimedia Commons.*
@@ -487,7 +488,7 @@ A curious detail: no fish are believed to live in the cave, yet one scene in the
 1. **Training does not remove risk; it reduces it.** At 130 m and 2 °C the margin is measured in minutes.
 2. **Nothing should dangle in a restriction.** Every leash or strap must be releasable with one hand.
 3. **A rebreather has physical limits.** Dense gas + agitated breathing = CO₂. Breathing control is part of the equipment.
-4. **Practise the bailout switch** until it is automatic, even when trapped and in an awkward position.
+4. **Always carry your own bailout and practise the switch** until it is automatic, even when trapped and in an awkward position.
 5. **Build experience on each route step by step.** Your first traverse should not be the deepest dive of your life.
 6. **Every diver must be able to get out alone.** The three survivors did.
 7. **In a rescue, the first life is the rescuer's.** The British divers applied it in 2014; at Vaavu in 2026 it was learned the hard way.
