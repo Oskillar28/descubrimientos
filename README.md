@@ -64,7 +64,7 @@ Los dos casos son opuestos y por eso se explican el uno al otro:
 | **Objetivo** | Travesía completa de **~2 km bajo el agua**: entrar por el estanque de Plura y salir por la cueva seca de Steinugleflåget |
 | **Profundidad máxima prevista** | ~129–135 m |
 | **Temperatura del agua** | ~2–4 °C, entrando por un agujero cortado en el hielo |
-| **Equipo** | *Rebreathers* de circuito cerrado (CCR) con trimix, *scooters* (propulsores) y botellas y *rebreathers* de rescate |
+| **Equipo** | *Rebreathers* de circuito cerrado (CCR), *scooters* (propulsores) y botellas y *rebreathers* de rescate |
 | **Formación** | Los cinco, espeleobuceadores completos con CCR (*CCR Full Cave*) |
 | **Víctimas** | **2 muertos** (Jari Huotarinen y Jari U.) y **3 supervivientes** tratados por enfermedad descompresiva |
 | **Causa** | Huotarinen quedó atrapado en un estrechamiento a ~110 m, con el cable de su *scooter* enganchado, y se ahogó al fallar el cambio a gas de rescate. Jari U. tuvo problemas con su *rebreather* poco después, cerca del mismo punto |
@@ -88,7 +88,7 @@ Los dos casos son opuestos y por eso se explican el uno al otro:
 
 *El periódico finlandés Helsingin Sanomat no publicó el apellido de Jari U. a petición de su familia. Este estudio respeta esa decisión, aunque otros medios sí lo publicaron.*
 
-> 🧠 **Razonamiento:** a diferencia de Vaavu, aquí no hay «exceso de confianza de aficionados». Los cinco tenían la formación técnica más alta, equipo redundante y un plan escrito. Lo que falló fue el margen: a 110 m, en agua a 2 °C y dentro de un paso estrecho, **un solo problema mecánico** puede consumir todo el margen en minutos.
+> 🧠 **Razonamiento:** a diferencia de Vaavu, aquí no hay «exceso de confianza de aficionados». Los cinco tenían la formación técnica más alta, equipo redundante y un plan detallado. Lo que falló fue el margen: a 110 m, en agua a 2 °C y dentro de un paso estrecho, **un solo problema mecánico** puede consumir todo el margen en minutos.
 
 ---
 
@@ -286,21 +286,22 @@ Esta pregunta es más difícil que en Vaavu, porque aquí **casi todo se hizo bi
 | Buena práctica | ¿Se hizo? |
 |---|---|
 | Formación completa de cuevas con *rebreather* | ✅ Los cinco |
-| Gas adecuado (trimix) y *rebreather* | ✅ |
+| *Rebreather* con gas de rescate para esa profundidad | ✅ (la mezcla exacta de cada uno no se ha publicado) |
 | Gas y *rebreathers* de rescate | ✅ |
-| Hilo guía instalado | ✅ La ruta estaba tendida desde la travesía de 2013 |
+| Hilo guía en la ruta | ✅ Había hilo: a Rantanen se le enganchó una aleta en él |
 | Equipos pequeños y dejar posar el sedimento | ✅ Dos equipos separados dos horas |
-| Plan escrito y apoyo en ambas salidas | ✅ Equipo y ropa en Steinugleflåget |
+| Apoyo en superficie | ❌ Solo dejaron ropa y equipo en Steinugleflåget. Nadie esperaba fuera: la alarma no se dio hasta las 2 de la madrugada, unas 14 h después de entrar el primer equipo |
 
 | Lo que se podría haber hecho distinto | Por qué |
 |---|---|
 | **Más experiencia previa en esa ruta** antes de intentar la travesía | Para Huotarinen era la primera travesía, y Jari U. no había buceado nunca en Plura. La travesía solo se había hecho una vez, cinco meses antes |
 | **Configuración más «limpia»** en los pasos estrechos | Nada colgando: cables del *scooter* recogidos o soltables con una mano, botellas bien sujetas. Un mosquetón que se suelta rápido puede salvar una vida |
 | **Menos gas denso** (más helio) en el tramo profundo | Bajar la densidad reduce el riesgo de CO₂ y el esfuerzo respiratorio. A 130 m es difícil llegar a valores seguros (ver [§6.2](#62-por-qué-no-se-puede-respirar-aire-ahí-abajo)) |
+| **Un equipo de apoyo en superficie** con hora límite de alarma | Si nadie espera fuera, nadie avisa cuando un equipo no sale a la hora prevista. Aquí la alarma tardó unas 14 h y Känkänen encontró el agujero del hielo cerrado otra vez |
 | **Comunicación entre equipos** | El equipo 2 no sabía que el paso estaba bloqueado. En una cueva de 2 km no hay forma sencilla de avisar: solo dejar marcas o notas en el hilo |
 | **Aceptar que el objetivo tiene un riesgo residual alto** | Una travesía de 2 km a 130 m y 2 °C está en el límite de lo que se puede hacer. Los propios protagonistas lo dicen en el documental |
 
-> 🧭 **Diferencia clave con Vaavu:** en Vaavu, **una sola** capa de seguridad bien puesta (un hilo guía, una segunda botella, una regla de los tercios) probablemente los habría salvado. En Plura estaban **todas** las capas, y aun así un cable enganchado bastó para empezar la cadena. Por eso el espeleobuceo profundo sigue siendo una de las actividades más peligrosas del mundo.
+> 🧭 **Diferencia clave con Vaavu:** en Vaavu, **una sola** capa de seguridad bien puesta (un hilo guía, una segunda botella, una regla de los tercios) probablemente los habría salvado. En Plura estaban **casi todas** las capas (faltó el apoyo en superficie), y aun así un cable enganchado bastó para empezar la cadena. Por eso el espeleobuceo profundo sigue siendo una de las actividades más peligrosas del mundo.
 
 ![Buceador de cuevas desplegando un hilo guía](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cave_diver_running_a_reel.jpg)
 *Buceador de cuevas desenrollando un hilo guía. En Plura el hilo estaba instalado: el peligro fue otro. Foto: Ryan Cantey, CC BY-SA 3.0, vía Wikimedia Commons.*
@@ -363,7 +364,7 @@ Lo mantuvieron en **secreto** porque creían que, si la policía se enteraba, le
 | Profundidad | 110–135 m | 47–70 m |
 | Agua | Dulce, **2–4 °C**, bajo el hielo | Salada, **~28 °C** |
 | Formación | Espeleobuceo completo con CCR | Sin formación de cuevas conocida |
-| Equipo | *Rebreathers*, trimix, *scooters*, mucho gas de rescate | Aire, una botella de 12 L |
+| Equipo | *Rebreathers*, *scooters*, mucho gas de rescate | Aire, una botella de 12 L |
 | Hilo guía | Instalado | No |
 | Qué falló | Atrapamiento en un paso estrecho + CO₂/*rebreather* | Desorientación en un túnel ciego + aire agotado |
 | Muertos | 2 | 5 + 1 rescatador |
@@ -448,7 +449,7 @@ Un detalle curioso: se cree que **no hay peces** en la cueva, pero en una escena
 | Mito | Realidad | Confianza |
 |---|---|---|
 | «Eran imprudentes o novatos» | Tenían la formación más alta; todas las fuentes los describen como experimentados y nada temerarios | 0,9 |
-| «Se quedaron sin aire» | No respiraban aire: usaban *rebreathers* con trimix. Fallaron el atrapamiento, el CO₂ y el paso a gas de rescate | 0,8 |
+| «Se quedaron sin aire» | No respiraban aire de una botella: usaban *rebreathers*. Fallaron el atrapamiento, el CO₂ y el paso a gas de rescate | 0,8 |
 | «La policía los detuvo por el rescate» | No: hubo investigación, pero procesarlos no era prioridad y quedaron libres de cargos | 0,8 |
 | «El rescate secreto fue en 2016» | Fue en marzo de 2014; 2016 es el año del documental | 0,95 |
 | «Los británicos no se atrevieron» | Hicieron inmersiones de inspección y decidieron, con criterio profesional, que el riesgo no se justificaba | 0,9 |

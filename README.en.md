@@ -64,7 +64,7 @@ The two cases are opposites, and that is why each one explains the other:
 | **Goal** | A full **~2 km underwater traverse**: in through the Plura pond, out through the Steinugleflåget dry cave |
 | **Planned maximum depth** | ~129–135 m |
 | **Water temperature** | ~2–4 °C, entering through a hole cut in the ice |
-| **Equipment** | Closed-circuit rebreathers (CCR) on trimix, scooters, and bailout cylinders and rebreathers |
+| **Equipment** | Closed-circuit rebreathers (CCR), scooters, and bailout cylinders and rebreathers |
 | **Training** | All five were CCR Full Cave divers |
 | **Victims** | **2 dead** (Jari Huotarinen and Jari U.) and **3 survivors** treated for decompression sickness |
 | **Cause** | Huotarinen got stuck in a restriction at ~110 m with his scooter leash snagged, and drowned when the switch to bailout gas failed. Jari U. had rebreather problems shortly afterwards, near the same spot |
@@ -88,7 +88,7 @@ The two cases are opposites, and that is why each one explains the other:
 
 *The Finnish newspaper Helsingin Sanomat withheld Jari U.'s surname at his family's request. This study respects that decision, although other media did publish it.*
 
-> 🧠 **Reasoning:** unlike Vaavu, there is no "amateur overconfidence" here. All five had top-level technical training, redundant gear and a written plan. What failed was the margin: at 110 m, in 2 °C water, inside a tight passage, **a single mechanical problem** can use up the whole margin in minutes.
+> 🧠 **Reasoning:** unlike Vaavu, there is no "amateur overconfidence" here. All five had top-level technical training, redundant gear and a detailed plan. What failed was the margin: at 110 m, in 2 °C water, inside a tight passage, **a single mechanical problem** can use up the whole margin in minutes.
 
 ---
 
@@ -286,21 +286,22 @@ This question is harder than for Vaavu, because here **almost everything was don
 | Good practice | Done? |
 |---|---|
 | Full cave training on rebreather | ✅ All five |
-| Proper gas (trimix) and rebreather | ✅ |
+| Rebreather with bailout gas for that depth | ✅ (each diver's exact mix has not been published) |
 | Bailout gas and rebreathers | ✅ |
-| Guideline in place | ✅ The route had been laid since the 2013 traverse |
+| Guideline on the route | ✅ There was a line: Rantanen's fin caught on it |
 | Small teams, letting silt settle | ✅ Two teams two hours apart |
-| Written plan and support at both exits | ✅ Gear and clothes at Steinugleflåget |
+| Surface support | ❌ They only left clothes and gear at Steinugleflåget. Nobody waited outside: the alarm was not raised until 2 a.m., about 14 h after the first team went in |
 
 | What could have been done differently | Why |
 |---|---|
 | **More prior experience on that route** before attempting the traverse | It was Huotarinen's first traverse, and Jari U. had never dived Plura. The traverse had been done only once, five months earlier |
 | **A "cleaner" configuration** for tight passages | Nothing dangling: scooter leashes stowed or releasable with one hand, cylinders well secured. A quick-release clip can save a life |
 | **Less dense gas** (more helium) on the deep section | Lower density reduces CO₂ risk and breathing effort. At 130 m safe values are hard to reach (see [§6.2](#62-why-you-cannot-breathe-air-down-there)) |
+| **A surface support team** with an alarm deadline | If nobody waits outside, nobody raises the alarm when a team is overdue. Here it took about 14 h, and Känkänen found the hole in the ice frozen over again |
 | **Communication between teams** | Team 2 did not know the passage was blocked. In a 2 km cave there is no simple way to warn others: only marks or notes on the line |
 | **Accepting the goal carries high residual risk** | A 2 km traverse at 130 m and 2 °C is at the limit of the possible. The protagonists say so themselves in the documentary |
 
-> 🧭 **Key difference from Vaavu:** at Vaavu, **one** properly placed safety layer (a guideline, a second cylinder, the rule of thirds) would probably have saved them. At Plura **every** layer was in place, and still a snagged leash was enough to start the chain. That is why deep cave diving remains one of the most dangerous activities in the world.
+> 🧭 **Key difference from Vaavu:** at Vaavu, **one** properly placed safety layer (a guideline, a second cylinder, the rule of thirds) would probably have saved them. At Plura **almost every** layer was in place (surface support was missing), and still a snagged leash was enough to start the chain. That is why deep cave diving remains one of the most dangerous activities in the world.
 
 ![Cave diver running a guideline](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cave_diver_running_a_reel.jpg)
 *A cave diver running a guideline. At Plura the line was in place: the danger was something else. Photo: Ryan Cantey, CC BY-SA 3.0, via Wikimedia Commons.*
@@ -363,7 +364,7 @@ They kept it **secret** because they believed police would stop them diving if t
 | Depth | 110–135 m | 47–70 m |
 | Water | Fresh, **2–4 °C**, under ice | Salt, **~28 °C** |
 | Training | Full cave on CCR | No known cave training |
-| Gear | Rebreathers, trimix, scooters, plenty of bailout | Air, a single 12 L cylinder |
+| Gear | Rebreathers, scooters, plenty of bailout | Air, a single 12 L cylinder |
 | Guideline | In place | No |
 | What failed | Entrapment in a restriction + CO₂/rebreather | Disorientation in a blind tunnel + air ran out |
 | Deaths | 2 | 5 + 1 rescuer |
@@ -448,7 +449,7 @@ A curious detail: no fish are believed to live in the cave, yet one scene in the
 | Myth | Reality | Confidence |
 |---|---|---|
 | "They were reckless or beginners" | They had top-level training; every source describes them as experienced and not reckless | 0.9 |
-| "They ran out of air" | They were not breathing air: they used rebreathers with trimix. What failed was the entrapment, CO₂ and the switch to bailout | 0.8 |
+| "They ran out of air" | They were not breathing air from a cylinder: they used rebreathers. What failed was the entrapment, CO₂ and the switch to bailout | 0.8 |
 | "Police arrested them over the recovery" | No: there was an investigation, but prosecution was not a priority and they were cleared | 0.8 |
 | "The secret recovery was in 2016" | It was in March 2014; 2016 is the documentary's year | 0.95 |
 | "The British divers didn't dare" | They made survey dives and decided, on professional grounds, that the risk was not justified | 0.9 |
