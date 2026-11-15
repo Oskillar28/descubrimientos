@@ -139,13 +139,13 @@ timeline
     title Plura, 6-7 de febrero de 2014 (reconstrucción)
     6 feb, madrugada : Llegada desde Finlandia tras ~15 h de viaje con remolque, moto de nieve y docenas de botellas
     6 feb, mañana : -3 °C. Cortan un agujero en el hielo con motosierra. El equipo 2 deja ropa y equipo en Steinugleflåget
-    ~12:00 : Equipo 1 (Grönqvist y Huotarinen) entra en el agua. Plan: ~5 h
-    ~13:00 : A ~110 m Huotarinen queda atrapado con el cable del scooter enganchado. Muere
-    ~14:00 : Equipo 2 (Känkänen, Rantanen, Jari U.) entra 2 h después del primero, sin saber nada
+    hacia las 12 h : Equipo 1 (Grönqvist y Huotarinen) entra en el agua. Plan previsto de unas 5 h
+    hacia las 13 h : A ~110 m Huotarinen queda atrapado con el cable del scooter enganchado. Muere
+    hacia las 14 h : Equipo 2 (Känkänen, Rantanen, Jari U.) entra 2 h después del primero, sin saber nada
     tarde : El equipo 2 encuentra el cuerpo bloqueando el paso. Jari U. tiene problemas con su rebreather y muere
-    ~21:00 : Grönqvist sale por Steinugleflåget tras ~8,5 h. Rantanen sale después
-    7 feb, ~01:30 : Känkänen sale por Plura tras ~11,5 h. El agujero se había vuelto a helar
-    7 feb, ~02:00 : Se da la alarma. Los tres supervivientes, evacuados a cámara hiperbárica
+    hacia las 21 h : Grönqvist sale por Steinugleflåget tras ~8,5 h. Rantanen sale después
+    7 feb, 1.30 h : Känkänen sale por Plura tras ~11,5 h. El agujero se había vuelto a helar
+    7 feb, 2 h : Se da la alarma. Los tres supervivientes, evacuados a cámara hiperbárica
 ```
 
 ![Horas dentro del agua](figs/duraciones_es.png)

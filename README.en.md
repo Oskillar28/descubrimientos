@@ -139,13 +139,13 @@ timeline
     title Plura, 6-7 February 2014 (reconstruction)
     6 Feb, early hours : Arrival from Finland after a ~15 h drive with a trailer, snowmobile and dozens of cylinders
     6 Feb, morning : -3 °C. They cut a hole in the ice with a chainsaw. Team 2 leaves clothes and gear at Steinugleflåget
-    ~12:00 : Team 1 (Grönqvist and Huotarinen) enters the water. Plan: ~5 h
-    ~13:00 : At ~110 m Huotarinen gets stuck with his scooter leash snagged. He dies
-    ~14:00 : Team 2 (Känkänen, Rantanen, Jari U.) enters 2 h after the first, unaware
+    around 12 pm : Team 1 (Grönqvist and Huotarinen) enters the water. Planned about 5 h
+    around 1 pm : At ~110 m Huotarinen gets stuck with his scooter leash snagged. He dies
+    around 2 pm : Team 2 (Känkänen, Rantanen, Jari U.) enters 2 h after the first, unaware
     afternoon : Team 2 finds the body blocking the passage. Jari U. has rebreather problems and dies
-    ~21:00 : Grönqvist exits at Steinugleflåget after ~8.5 h. Rantanen exits later
-    7 Feb, ~01:30 : Känkänen surfaces at Plura after ~11.5 h. The hole had frozen over again
-    7 Feb, ~02:00 : The alarm is raised. The three survivors are flown to a recompression chamber
+    around 9 pm : Grönqvist exits at Steinugleflåget after ~8.5 h. Rantanen exits later
+    7 Feb, 1.30 am : Känkänen surfaces at Plura after ~11.5 h. The hole had frozen over again
+    7 Feb, 2 am : The alarm is raised. The three survivors are flown to a recompression chamber
 ```
 
 ![Hours in the water](figs/duraciones_en.png)
