@@ -8,7 +8,7 @@
 > Based on cross-checked public sources and my own calculations.
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · **Plura cave (Norway, 2014)** (this study) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · **Plura cave (Norway, 2014)** (this study) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
 
 > ⚠️ **A note of respect.** This study deals with the real deaths of two Finnish divers. It includes no images of the victims and no links to their helmet-camera footage of the accident. The aim is to understand **what happened**, **why**, and **what was learned**.
 

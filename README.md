@@ -8,7 +8,7 @@
 > Elaborado a partir de fuentes públicas contrastadas y de cálculos propios.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
-> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · **Cueva de Plura (Noruega, 2014)** (este estudio) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · **Cueva de Plura (Noruega, 2014)** (este estudio) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
 
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de dos buceadores finlandeses. No incluye imágenes de las víctimas ni enlaces a las grabaciones de sus cámaras en el momento del accidente. El objetivo es entender **qué pasó**, **por qué** y **qué se aprendió**.
 
