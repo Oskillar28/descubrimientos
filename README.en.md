@@ -15,8 +15,8 @@
 ## 🎬 The study on video
 
 <p align="center">
-  <a href="video/Titanic_estudio_video.mp4"><img src="video/miniatura.jpg" width="760" alt="Watch the video summary of the study"></a>
-  <br><sub><i>An 8-minute animated summary of the whole study, narrated in Spanish. Click the image, then <b>View raw</b> to watch or download it.</i></sub>
+  <a href="video/Titanic_study_video_EN.mp4"><img src="video/thumbnail_en.jpg" width="760" alt="Watch the video summary of the study"></a>
+  <br><sub><i>A 7-minute animated summary of the whole study, narrated in English. Click the image, then <b>View raw</b> to watch or download it. Also available <a href="video/Titanic_estudio_video.mp4">in Spanish</a>.</i></sub>
 </p>
 
 ---

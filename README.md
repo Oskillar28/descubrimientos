@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="video/Titanic_estudio_video.mp4"><img src="video/miniatura.jpg" width="760" alt="Ver el vídeo resumen del estudio"></a>
-  <br><sub><i>Resumen animado de todo el estudio en 8 minutos, con voz en off en castellano. Pulsa la imagen y después <b>View raw</b> para verlo o descargarlo.</i></sub>
+  <br><sub><i>Resumen animado de todo el estudio en 8 minutos, con voz en off en castellano. Pulsa la imagen y después <b>View raw</b> para verlo o descargarlo. También disponible <a href="video/Titanic_study_video_EN.mp4">en inglés</a>.</i></sub>
 </p>
 
 ---
