@@ -107,6 +107,23 @@ La materia orgánica cae al fondo de la fosa, queda enterrada y los microbios la
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+
+**El anfípodo que come madera** (*Hirondellea gigas*)
+
+- Vive en las fosas más profundas, hasta casi **11 km**, en el abismo Challenger.
+- Fabrica **sus propias enzimas** para digerir celulosa: puede alimentarse de madera y restos vegetales que se hunden hasta el fondo (Kobayashi et al., <i>PLoS ONE</i>, 2012).
+- Es un crustáceo carroñero, pariente lejano de las pulgas de playa.
+
+<sub>Foto: <a href="https://commons.wikimedia.org/wiki/File:Hirondellea_gigas.jpg">OpenCage, Wikimedia Commons</a>, licencia <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA 2.5</a>, recortada. Ejemplar del acuario Shin-Enoshima (Japón), no fotografiado en la fosa.</sub>
+
+</td>
+<td width="40%"><img src="img/anfipodo-hirondellea-gigas.jpg" alt="Anfípodo Hirondellea gigas"></td>
+</tr>
+</table>
+
 <a name="es-contenido"></a>
 
 ## 5. Qué contiene el informe
@@ -151,6 +168,7 @@ El PDF tiene **56 páginas**, 23 figuras propias, 3 fotografías y 6 láminas ci
 | Fotos de NOAA (portada, gusanos *Riftia*, fumarolas de Champagne) | Dominio público, citando a NOAA |
 | Láminas de Peng et al., *Nature* (2025) | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/): sin uso comercial y sin modificar |
 | Láminas de Gerringer et al., *Zootaxa* (2017) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| Foto del anfípodo *Hirondellea gigas* (OpenCage, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hirondellea_gigas.jpg)) | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/): citar al autor; si la modificas, compártela con la misma licencia |
 
 En la práctica, puedes compartirlo libremente **sin fines comerciales** y sin alterar las láminas de *Nature*. El detalle de cada imagen está en la sección 18 del informe.
 
@@ -246,6 +264,23 @@ Organic matter falls to the bottom of the trench, is buried, and microbes turn i
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+
+**The wood-eating amphipod** (*Hirondellea gigas*)
+
+- Lives in the deepest trenches, down to almost **11 km**, in the Challenger Deep.
+- Makes **its own enzymes** to digest cellulose, so it can feed on wood and plant debris that sinks to the seafloor (Kobayashi et al., <i>PLoS ONE</i>, 2012).
+- It is a scavenging crustacean, a distant relative of beach hoppers.
+
+<sub>Photo: <a href="https://commons.wikimedia.org/wiki/File:Hirondellea_gigas.jpg">OpenCage, Wikimedia Commons</a>, license <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA 2.5</a>, cropped. Specimen at Shin-Enoshima Aquarium (Japan), not photographed in the trench.</sub>
+
+</td>
+<td width="40%"><img src="img/anfipodo-hirondellea-gigas.jpg" alt="Amphipod Hirondellea gigas"></td>
+</tr>
+</table>
+
 <a name="en-contents"></a>
 
 ## 5. What's in the report
@@ -291,6 +326,7 @@ Found an error? Open an *issue* in this repository.
 | NOAA photos (cover, *Riftia* tubeworms, Champagne vents) | Public domain, crediting NOAA |
 | Plates from Peng et al., *Nature* (2025) | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/): non-commercial, unmodified |
 | Plates from Gerringer et al., *Zootaxa* (2017) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| Photo of the amphipod *Hirondellea gigas* (OpenCage, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hirondellea_gigas.jpg)) | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/): credit the author; if you modify it, share it under the same license |
 
 In practice, you may share it freely **for non-commercial purposes** and without altering the *Nature* plates. Details for each image are in section 18 of the report.
 
