@@ -12,6 +12,13 @@
 > **Author:** Óscar Ramírez Martín · **Research date:** 1 November 2026
 > **Method:** cross-checking primary sources (official reports, scientific papers, Wikipedia and its references, reputable press) + my own reasoning. Each block carries a **confidence level** (0.0–1.0), and at the end there are sections on **limitations** and **originality checks**.
 
+## 🎬 The study on video
+
+<p align="center">
+  <a href="video/Titanic_estudio_video.mp4"><img src="video/miniatura.jpg" width="760" alt="Watch the video summary of the study"></a>
+  <br><sub><i>An 8-minute animated summary of the whole study, narrated in Spanish. Click the image, then <b>View raw</b> to watch or download it.</i></sub>
+</p>
+
 ---
 
 ## 📑 Contents

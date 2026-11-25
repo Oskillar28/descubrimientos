@@ -12,6 +12,13 @@
 > **Autor:** Óscar Ramírez Martín · **Fecha de la investigación:** 1 de noviembre de 2026
 > **Método:** contraste de fuentes primarias (informes oficiales, artículos científicos, Wikipedia con sus referencias, prensa de referencia) + razonamiento propio. Cada bloque lleva un **nivel de confianza** (0,0–1,0) y al final hay una sección de **limitaciones** y otra de **verificación de originalidad**.
 
+## 🎬 El estudio en vídeo
+
+<p align="center">
+  <a href="video/Titanic_estudio_video.mp4"><img src="video/miniatura.jpg" width="760" alt="Ver el vídeo resumen del estudio"></a>
+  <br><sub><i>Resumen animado de todo el estudio en 8 minutos, con voz en off en castellano. Pulsa la imagen y después <b>View raw</b> para verlo o descargarlo.</i></sub>
+</p>
+
 ---
 
 ## 📑 Índice
