@@ -108,7 +108,7 @@ timeline
     September : Sails up the East African coast into the Red Sea
     Late Sept. : A collision blocks the Suez Canal. She anchors at "Safe Anchorage F"
     ~2 weeks : Waits with engines stopped; the crew sleep on deck because of the heat
-    6 Oct, 01:30 : Two German bombs hit hold 4
+    6 Oct, 01.30 h : Two German bombs hit hold 4
 ```
 
 > 🧠 **Reasoning:** the anchorage was called "safe" because it was thought to be out of reach of German bombers. But by 1941 the Luftwaffe was flying from **Crete**, more than 1,000 km away, with aircraft able to get there. A large, motionless ship full of ammunition was an ideal target. *Confidence 0.8.*

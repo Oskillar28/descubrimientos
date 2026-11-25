@@ -108,7 +108,7 @@ timeline
     Septiembre : Sube por la costa de África oriental y entra en el mar Rojo
     Finales de sept. : Un choque de barcos bloquea el canal de Suez. Fondea en el «Safe Anchorage F» (fondeadero seguro F)
     ~2 semanas : Espera con las máquinas paradas; la tripulación duerme en cubierta por el calor
-    6 oct, 01:30 : Dos bombas alemanas impactan en la bodega 4
+    6 oct, 01.30 h : Dos bombas alemanas impactan en la bodega 4
 ```
 
 > 🧠 **Razonamiento:** el fondeadero se llamaba «seguro» porque se creía fuera del alcance de los bombarderos alemanes. Pero en 1941 la Luftwaffe ya operaba desde **Creta**, a más de 1.000 km, con aviones capaces de llegar. Un buque grande, quieto y lleno de munición era un blanco ideal. *Confianza 0,8.*
