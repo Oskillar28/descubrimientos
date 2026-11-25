@@ -16,7 +16,8 @@
 
 <p align="center">
   <a href="vida-sin-luz-fosas-marinas.pdf">📄 Informe completo (PDF, español)</a> &nbsp;·&nbsp;
-  <a href="life-without-light-ocean-trenches.pdf">📄 Full report (PDF, English)</a>
+  <a href="life-without-light-ocean-trenches.pdf">📄 Full report (PDF, English)</a><br>
+  <a href="vida-sin-luz-quimiosintesis.mp4">🎬 Vídeo explicativo / Explainer video (7 min, narrado en español)</a>
 </p>
 
 ---
@@ -144,6 +145,7 @@ El PDF tiene **56 páginas**, 23 figuras propias, 3 fotografías y 6 láminas ci
 
 - 📄 [**Informe completo en español** (PDF, 56 páginas)](vida-sin-luz-fosas-marinas.pdf)
 - 📄 [Versión en inglés (PDF, 56 páginas)](life-without-light-ocean-trenches.pdf)
+- 🎬 [Vídeo explicativo: la quimiosíntesis en las fosas marinas (MP4, 7 min, 31 MB)](vida-sin-luz-quimiosintesis.mp4)
 
 <a name="es-fiabilidad"></a>
 
@@ -301,6 +303,7 @@ The PDF has **56 pages**, 23 original figures, 3 photographs and 6 scientific pl
 
 - 📄 [**Full report in English** (PDF, 56 pages)](life-without-light-ocean-trenches.pdf)
 - 📄 [Spanish original (PDF, 56 pages)](vida-sin-luz-fosas-marinas.pdf)
+- 🎬 [Explainer video: chemosynthesis in deep ocean trenches (MP4, 7 min, 31 MB, narrated in Spanish)](vida-sin-luz-quimiosintesis.mp4)
 
 <a name="en-reliability"></a>
 
