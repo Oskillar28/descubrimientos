@@ -360,7 +360,7 @@ flowchart LR
 ## 12. Animales y «vegetación» del pecio
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg/960px-Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg" width="420" alt="Peces murciélago en el Thistlegorm">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg/500px-Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg" width="420" alt="Peces murciélago en el Thistlegorm">
   <br><sub><i>Peces murciélago orbiculares (<i>Platax orbicularis</i>) en el Thistlegorm, 29/3/2022. Foto: Diego Delso, CC BY-SA 4.0, vía Wikimedia Commons.</i></sub>
 </p>
 
