@@ -1,0 +1,48 @@
+CÁLCULOS · PLURA 2014  (divulgativos / educational only)
+============================================================
+Densidad del aire a 1 bar y 2 °C: 1.284 g/L
+
+Profundidad 30 m -> presión absoluta 4.0 bar
+  AIRE   ppO2=0.84 bar  ppN2=3.16 bar  densidad=5.1 g/L
+  TX 10/70 ppO2=0.40 bar  END=0 m  densidad=2.1 g/L
+  TX 8/80 ppO2=0.32 bar  END=0 m  densidad=1.6 g/L
+
+Profundidad 100 m -> presión absoluta 11.0 bar
+  AIRE   ppO2=2.31 bar  ppN2=8.69 bar  densidad=14.1 g/L
+  TX 10/70 ppO2=1.10 bar  END=18 m  densidad=5.7 g/L
+  TX 8/80 ppO2=0.88 bar  END=7 m  densidad=4.4 g/L
+
+Profundidad 110 m -> presión absoluta 12.0 bar
+  AIRE   ppO2=2.52 bar  ppN2=9.48 bar  densidad=15.3 g/L
+  TX 10/70 ppO2=1.20 bar  END=20 m  densidad=6.2 g/L
+  TX 8/80 ppO2=0.96 bar  END=8 m  densidad=4.9 g/L
+
+Profundidad 125 m -> presión absoluta 13.5 bar
+  AIRE   ppO2=2.83 bar  ppN2=10.67 bar  densidad=17.3 g/L
+  TX 10/70 ppO2=1.35 bar  END=24 m  densidad=6.9 g/L
+  TX 8/80 ppO2=1.08 bar  END=11 m  densidad=5.5 g/L
+
+Profundidad 130 m -> presión absoluta 14.0 bar
+  AIRE   ppO2=2.94 bar  ppN2=11.06 bar  densidad=17.9 g/L
+  TX 10/70 ppO2=1.40 bar  END=25 m  densidad=7.2 g/L
+  TX 8/80 ppO2=1.12 bar  END=11 m  densidad=5.7 g/L
+
+Profundidad 135 m -> presión absoluta 14.5 bar
+  AIRE   ppO2=3.04 bar  ppN2=11.46 bar  densidad=18.5 g/L
+  TX 10/70 ppO2=1.45 bar  END=27 m  densidad=7.5 g/L
+  TX 8/80 ppO2=1.16 bar  END=12 m  densidad=5.9 g/L
+
+MOD del aire: 1,4 bar -> 56.7 m · 1,6 bar -> 66.2 m
+MOD trimix 10/70: 1,4 bar -> 130 m · 1,6 bar -> 150 m
+El aire alcanza 5.2 g/L a ~31 m
+El aire alcanza 6.2 g/L a ~38 m
+
+Botella de rescate (bailout) de 11 L a 200 bar = 2.200 L a 130 m (14 bar):
+  SAC 15 L/min (relajado) ->  210 L/min -> 10.5 min
+  SAC 20 L/min (normal  ) ->  280 L/min ->  7.9 min
+  SAC 30 L/min (esfuerzo) ->  420 L/min ->  5.2 min
+  SAC 45 L/min (estrés  ) ->  630 L/min ->  3.5 min
+  SAC 60 L/min (pánico  ) ->  840 L/min ->  2.6 min
+
+Duraciones (fuentes: Helsingin Sanomat, X-Ray Mag):
+  Plan: ~5 h · Grönqvist: ~8,5 h · Känkänen: ~11,5 h · Rescate: 101 h de buceo en total
