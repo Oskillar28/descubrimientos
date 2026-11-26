@@ -360,7 +360,7 @@ flowchart LR
 ## 12. Animals and "vegetation" on the wreck
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg/800px-Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg" width="420" alt="Batfish on the Thistlegorm">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg/960px-Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg" width="420" alt="Batfish on the Thistlegorm">
   <br><sub><i>Orbicular batfish (<i>Platax orbicularis</i>) on the Thistlegorm, 29/3/2022. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons.</i></sub>
 </p>
 
