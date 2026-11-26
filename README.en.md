@@ -9,6 +9,8 @@
 
 > ⚠️ **A note of respect.** The Thistlegorm is the grave of **nine men** who died on 6 October 1941. This study does not encourage anyone to touch or take anything from the wreck.
 
+> 🎬 **Video of the study (7 min, Spanish):** [oskillar28.github.io/thistlegorm-pecio-mar-rojo](https://oskillar28.github.io/thistlegorm-pecio-mar-rojo/)
+
 > 📚 **Series of studies on wrecks and diving accidents** by the same author:
 > [RMS Titanic](https://github.com/Oskillar28/titanic-pecio-historia) · [Britannic (Carl Spencer, 2009)](https://github.com/Oskillar28/britannic-carl-spencer) · **SS Thistlegorm** (this study) · [Blue Hole, Dahab](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Plura cave](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave](https://github.com/Oskillar28/cueva-vaavu-maldivas)
 

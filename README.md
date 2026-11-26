@@ -9,6 +9,8 @@
 
 > ⚠️ **Nota de respeto.** El Thistlegorm es la tumba de **nueve hombres** que murieron el 6 de octubre de 1941. Este estudio no anima a tocar ni a llevarse nada del pecio.
 
+> 🎬 **Vídeo del estudio (7 min):** [oskillar28.github.io/thistlegorm-pecio-mar-rojo](https://oskillar28.github.io/thistlegorm-pecio-mar-rojo/)
+
 > 📚 **Serie de estudios sobre pecios y accidentes de buceo** del mismo autor:
 > [RMS Titanic](https://github.com/Oskillar28/titanic-pecio-historia) · [Britannic (Carl Spencer, 2009)](https://github.com/Oskillar28/britannic-carl-spencer) · **SS Thistlegorm** (este estudio) · [Blue Hole de Dahab](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Cueva de Plura](https://github.com/Oskillar28/plura-cueva-noruega) · [Cueva de Vaavu](https://github.com/Oskillar28/cueva-vaavu-maldivas)
 
