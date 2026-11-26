@@ -57,6 +57,7 @@
   document.getElementById("b-es").onclick = () => set("es");
   document.getElementById("b-en").onclick = () => set("en");
   if (location.hash === "#en") set("en");
+  window.addEventListener("hashchange", () => set(location.hash === "#en" ? "en" : "es"));
 </script>
 </body>
 </html>
