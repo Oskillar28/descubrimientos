@@ -9,6 +9,8 @@
 
 > 📄 **Estudio completo (edición ampliada, 32 páginas):** [Estudio_Yuri_Lipski_Blue_Hole_Dahab.pdf](Estudio_Yuri_Lipski_Blue_Hole_Dahab.pdf). Incluye además la geografía del mar Rojo y del golfo de Aqaba, la vida marina de Dahab y la biografía de Tarek Omar con su método de recuperación de cuerpos.
 
+> 🎬 **Vídeo resumen (7 min, narrado en castellano):** [Video_Yuri_Lipski_Blue_Hole_Dahab_ES.mp4](video/Video_Yuri_Lipski_Blue_Hole_Dahab_ES.mp4) · *English version:* [Video_Yuri_Lipski_Dahab_Blue_Hole_EN.mp4](video/Video_Yuri_Lipski_Dahab_Blue_Hole_EN.mp4). Recorre todo el repositorio y el estudio con las figuras propias; no muestra imágenes de la víctima.
+
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de una persona de 22 años. No enlaza ni reproduce la grabación de su muerte y no incluye fotografías suyas. El objetivo es entender **por qué** ocurrió, para que no vuelva a ocurrir.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
