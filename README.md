@@ -196,6 +196,17 @@ El manifiesto solo decía «material de transporte motorizado», pero la carga r
 
 Las botas Wellington han generado leyendas (que eran todas del pie izquierdo, o gigantes para asustar al enemigo). Divernet da una explicación práctica: servían para **evitar la electricidad estática** cuando el personal de tierra repostaba aviones. *Confianza 0,6* (una sola fuente, aunque es coherente con el uso militar del caucho).
 
+### 5.3 La munición y las armas, hoy
+
+En el pecio siguen proyectiles, cajas de munición, cordita y los dos cañones del barco. **No se deben tocar**: la munición antigua puede ser inestable (§11).
+
+| Foto | Qué se ve | Autor · fecha | Licencia |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Thistlegorm_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D0%B8_%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D1%80%D1%8E%D0%BC%D1%83.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Thistlegorm_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D0%B8_%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D1%80%D1%8E%D0%BC%D1%83.jpg/960px-Thistlegorm_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D0%B8_%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D1%80%D1%8E%D0%BC%D1%83.jpg" width="220"></a> | Proyectiles de la bodega 4 que no explotaron en el bombardeo | Diver ZorG · 22/9/2010 | CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:ThistlegormMunition.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/ThistlegormMunition.jpg" width="220"></a> | Munición en el pecio | Roland Unger · 16/9/2007 | CC BY-SA 3.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:ThistlegormGun.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/ThistlegormGun.jpg" width="220"></a> | Cañón antiaéreo de popa | Roland Unger · 27/7/2008 | CC BY-SA 3.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Thistlegorm_4_inch_Anti-Aircraft_Gun.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Thistlegorm_4_inch_Anti-Aircraft_Gun.jpg/960px-Thistlegorm_4_inch_Anti-Aircraft_Gun.jpg" width="220"></a> | El cañón de popa, descrito por el autor como antiaéreo de 4 pulgadas | Tim Sheerman-Chase · 4/9/2007 | CC BY 2.0 |
+
 ---
 
 ## 6. Cousteau y el primer descubrimiento
@@ -369,38 +380,41 @@ El equipo de **Chloe Lee y Stefano Goffredo** (Universidad de Bolonia) analizó 
 
 ### 12.3 Animales que se ven
 
-| Animal | Nombre científico | Dónde suele estar | Fuente |
-|---|---|---|---|
-| Pez murciélago | *Platax* spp. | Bancos sobre la cubierta | PLOS ONE, foto de Commons |
-| Morena gigante | *Gymnothorax javanicus* | Huecos de la estructura | PLOS ONE |
-| Pez ardilla | *Sargocentron* spp. | Sombras y bodegas | PLOS ONE |
-| Pez payaso del mar Rojo | *Amphiprion bicinctus* | En anémonas | PLOS ONE |
-| Napoleón | *Cheilinus undulatus* | Alrededor del casco | PLOS ONE |
-| Jureles y carángidos | Carangidae | Cazando en aguas abiertas | PLOS ONE |
-| Atunes y barracudas | *Thunnus*, *Sphyraena* | Aguas abiertas | Wikipedia |
-| Pez león | *Pterois* | Sobre la estructura | Wikipedia |
-| Pez piedra, pez escorpión | *Synanceia*, *Scorpaenopsis* | Camuflados en el metal (¡no tocar!) | Wikipedia, Commons |
-| Pez cocodrilo | *Papilloculiceps longiceps* | Camuflado en el fondo | Discover Wildlife |
-| Tortugas marinas | Cheloniidae | A veces, en la zona de cadenas | Wikipedia |
-| Meros, tiburones de punta negra | Serranidae, *Carcharhinus* | Sobre todo a primera hora | scubadiving.com |
-| Peces cristal | — | Nubes dentro de las bodegas | Centros de buceo |
+Pulsa cada foto para abrir su página en Wikimedia Commons, con la imagen grande, el autor y la licencia. Las marcadas con 📍 están hechas **en el propio Thistlegorm**; las demás son de la **misma especie en el mar Rojo** (o cerca), para que se vea cómo es el animal.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/ThistlegormDrachenkopf.jpg" width="480" alt="Pez escorpión en el Thistlegorm">
-  <br><sub><i>Pez escorpión (<i>Scorpaenopsis oxycephala</i>) camuflado en el pecio. Foto: Roland Unger, 16/9/2007, CC BY-SA 3.0, vía Wikimedia Commons.</i></sub>
-</p>
+| Foto | Animal | Nombre científico | Dónde suele estar | Autor · licencia |
+|---|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Peces_murci%C3%A9lago_orbiculares_(Platax_orbicularis),_SS_Thistlegorm,_mar_Rojo,_Egipto,_2022-03-29,_DD_24.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg/500px-Peces_murci%C3%A9lago_orbiculares_%28Platax_orbicularis%29%2C_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_24.jpg" width="170"></a> | **Pez murciélago 📍** | *Platax* spp. | Bancos sobre la cubierta | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Morena_gigante_(Gymnothorax_javanicus),_Ras_Katy,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_83.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Morena_gigante_%28Gymnothorax_javanicus%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_83.jpg/500px-Morena_gigante_%28Gymnothorax_javanicus%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_83.jpg" width="170"></a> | **Morena gigante** | *Gymnothorax javanicus* | Huecos de la estructura | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Sargocentron_spiniferum_at_Red_Sea_Aquarium_by_Hatem_Moushir_2.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sargocentron_spiniferum_at_Red_Sea_Aquarium_by_Hatem_Moushir_2.JPG/500px-Sargocentron_spiniferum_at_Red_Sea_Aquarium_by_Hatem_Moushir_2.JPG" width="170"></a> | **Pez ardilla** | *Sargocentron* spp. | Sombras y bodegas | Hatem Moushir (acuario) · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Peces_payaso_(Amphiprion_bicinctus)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_35.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Peces_payaso_%28Amphiprion_bicinctus%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_35.jpg/500px-Peces_payaso_%28Amphiprion_bicinctus%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_35.jpg" width="170"></a> | **Pez payaso del mar Rojo** | *Amphiprion bicinctus* | En anémonas | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Pez_Napole%C3%B3n_(Cheilinus_undulatus),_mar_Rojo,_Egipto,_2023-04-18,_DD_13.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pez_Napole%C3%B3n_%28Cheilinus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_13.jpg/500px-Pez_Napole%C3%B3n_%28Cheilinus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_13.jpg" width="170"></a> | **Napoleón** | *Cheilinus undulatus* | Alrededor del casco | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Jurel_de_aleta_azul_(Caranx_melampygus),_mar_Rojo,_Egipto,_2023-04-15,_DD_132.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jurel_de_aleta_azul_%28Caranx_melampygus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_132.jpg/500px-Jurel_de_aleta_azul_%28Caranx_melampygus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_132.jpg" width="170"></a> | **Jurel de aleta azul (carángido)** | *Caranx melampygus* | Cazando en aguas abiertas | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Casarte_oj%C3%B3n_(Gymnosarda_unicolor),_mar_Rojo,_Egipto,_2023-04-17,_DD_85.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Casarte_oj%C3%B3n_%28Gymnosarda_unicolor%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_85.jpg/500px-Casarte_oj%C3%B3n_%28Gymnosarda_unicolor%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_85.jpg" width="170"></a> | **Atún dientes de perro (casarte ojón)** | *Gymnosarda unicolor* | Aguas abiertas | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%B1%D0%B0%D1%80%D1%80%D0%B0%D0%BA%D1%83%D0%B4%D0%B0_(great_barracuda)._Sphyraena_barracuda_DSCF1489BE.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%B1%D0%B0%D1%80%D1%80%D0%B0%D0%BA%D1%83%D0%B4%D0%B0_%28great_barracuda%29._Sphyraena_barracuda_DSCF1489BE.jpg/500px-%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%B1%D0%B0%D1%80%D1%80%D0%B0%D0%BA%D1%83%D0%B4%D0%B0_%28great_barracuda%29._Sphyraena_barracuda_DSCF1489BE.jpg" width="170"></a> | **Barracuda** | *Sphyraena barracuda* | Aguas abiertas | Kora27 · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Pez_fuego_diablo_(Pterois_miles),_mar_Rojo,_Egipto,_2023-04-18,_DD_161.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pez_fuego_diablo_%28Pterois_miles%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_161.jpg/500px-Pez_fuego_diablo_%28Pterois_miles%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_161.jpg" width="170"></a> | **Pez león** | *Pterois miles* | Sobre la estructura | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Synanceiidae_Synanceia_verrucosa_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Synanceiidae_Synanceia_verrucosa_1.jpg/500px-Synanceiidae_Synanceia_verrucosa_1.jpg" width="170"></a> | **Pez piedra (¡venenoso, no tocar!)** | *Synanceia verrucosa* | Camuflado en el metal | NasserHalaweh · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:ThistlegormDrachenkopf.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/ThistlegormDrachenkopf.jpg" width="170"></a> | **Pez escorpión 📍** | *Scorpaenopsis oxycephala* | Camuflado en el metal | Roland Unger · CC BY-SA 3.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Pez_cocodrilo_(Papilloculiceps_longiceps),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_71.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pez_cocodrilo_%28Papilloculiceps_longiceps%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_71.jpg/500px-Pez_cocodrilo_%28Papilloculiceps_longiceps%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_71.jpg" width="170"></a> | **Pez cocodrilo** | *Papilloculiceps longiceps* | Camuflado en el fondo | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Meeresschildkr%C3%B6te_(Eretmochelys_imbricata)_DSCF0408WI.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Meeresschildkr%C3%B6te_%28Eretmochelys_imbricata%29_DSCF0408WI.jpg/500px-Meeresschildkr%C3%B6te_%28Eretmochelys_imbricata%29_DSCF0408WI.jpg" width="170"></a> | **Tortuga carey** | *Eretmochelys imbricata* | A veces, junto al casco | Kora27 · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Serranidae_-_Plectropomus_pessuliferus_marisburi.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Serranidae_-_Plectropomus_pessuliferus_marisburi.jpg/500px-Serranidae_-_Plectropomus_pessuliferus_marisburi.jpg" width="170"></a> | **Mero (mero del mar Rojo)** | *Plectropomus pessuliferus* | Sobre todo a primera hora | Hectonichus · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Carcharhinus_melanopterus_Red_Sea.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Carcharhinus_melanopterus_Red_Sea.jpg/500px-Carcharhinus_melanopterus_Red_Sea.jpg" width="170"></a> | **Tiburón de punta negra** | *Carcharhinus melanopterus* | Ocasional, alrededor del pecio | Daviddarom · Dominio público |
+| <a href="https://commons.wikimedia.org/wiki/File:Parapriacanthus_ransonneti_355825533.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Parapriacanthus_ransonneti_355825533.jpg/500px-Parapriacanthus_ransonneti_355825533.jpg" width="170"></a> | **Peces cristal (barrenderos)** | *Parapriacanthus ransonneti* | Nubes dentro de las bodegas | Ditch Townsend · CC BY-SA 4.0 |
+
+> ℹ️ El pez ardilla es una foto de acuario (Red Sea Aquarium, Hurghada) y la barracuda no indica el lugar: son la misma especie que se ve en el pecio, no fotos del pecio.
 
 ### 12.4 ¿Hay «vegetación»?
 
 A 30 m bajo el mar **no hay plantas** como en tierra. Lo que parece vegetación son, en su mayoría, **animales**:
 
-| Lo que se ve | Qué es en realidad |
-|---|---|
-| «Arbolitos» de colores | **Corales blandos** (*Dendronephthya*): animales coloniales |
-| Abanicos | **Gorgonias**: corales con esqueleto flexible |
-| Costras duras | **Corales duros** y **algas coralinas** (estas sí son algas) |
-| «Pelusa» verde o marrón | **Algas** filamentosas, que sí hacen fotosíntesis gracias a la luz que llega hasta allí |
-| Bultos con agujeros | **Esponjas**: animales filtradores |
+| Foto | Lo que se ve | Qué es en realidad | Autor · licencia |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Coral_blando_(Dendronephthya_klunzingeri),_mar_Rojo,_Egipto,_2023-04-16,_DD_17.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Coral_blando_%28Dendronephthya_klunzingeri%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_17.jpg/500px-Coral_blando_%28Dendronephthya_klunzingeri%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_17.jpg" width="170"></a> | «Arbolitos» de colores | **Corales blandos** (*Dendronephthya*): animales coloniales. El grupo más abundante en el pecio (PLOS ONE) | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Large_gorgonian_fan_with_Red_Sea_Bannerfish_at_Little_Brother,_Red_Sea,_Egypt_-SCUBA_(6211284285).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Large_gorgonian_fan_with_Red_Sea_Bannerfish_at_Little_Brother%2C_Red_Sea%2C_Egypt_-SCUBA_%286211284285%29.jpg/500px-Large_gorgonian_fan_with_Red_Sea_Bannerfish_at_Little_Brother%2C_Red_Sea%2C_Egypt_-SCUBA_%286211284285%29.jpg" width="170"></a> | Abanicos | **Gorgonias**: corales con esqueleto flexible | Derek Keats · CC BY 2.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Coral_(Acropora_hemprichii),_mar_Rojo,_Egipto,_2023-04-15,_DD_26.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Coral_%28Acropora_hemprichii%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_26.jpg/500px-Coral_%28Acropora_hemprichii%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_26.jpg" width="170"></a> | Ramas o costras duras | **Corales duros** (aquí *Acropora*): construyen esqueleto de calcio | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Coralline_algae_at_Fanous_East_Reef,_Red_Sea,_Egypt_-SCUBA_-UNDERWATER_-PICTURES_(6536735589).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Coralline_algae_at_Fanous_East_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_-UNDERWATER_-PICTURES_%286536735589%29.jpg/500px-Coralline_algae_at_Fanous_East_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_-UNDERWATER_-PICTURES_%286536735589%29.jpg" width="170"></a> | Costras rosadas | **Algas coralinas**: estas sí son algas, con calcio en sus paredes | Derek Keats · CC BY 2.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Alga_parda_(Turbinaria_ornata),_mar_Rojo,_Egipto,_2023-04-16,_DD_57.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alga_parda_%28Turbinaria_ornata%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_57.jpg/500px-Alga_parda_%28Turbinaria_ornata%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_57.jpg" width="170"></a> | «Pelusa» o matas verdes y marrones | **Algas**, que hacen fotosíntesis con la luz que llega (ejemplo del mar Rojo: alga parda *Turbinaria*) | Diego Delso · CC BY-SA 4.0 |
+| <a href="https://commons.wikimedia.org/wiki/File:Esponja_(Callyspongia_crassa),_mar_Rojo,_Egipto,_2023-04-16,_DD_24.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Esponja_%28Callyspongia_crassa%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_24.jpg/500px-Esponja_%28Callyspongia_crassa%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_24.jpg" width="170"></a> | Bultos con agujeros | **Esponjas**: animales filtradores | Diego Delso · CC BY-SA 4.0 |
 
 > 🧠 **Por qué llega luz:** el agua del mar Rojo es muy clara. A 30 m todavía hay luz suficiente para que vivan algas y corales con **zooxantelas** (algas microscópicas dentro del coral). Por eso hay colores, aunque el rojo se pierde en los primeros metros y todo se ve azul sin linterna. *Confianza 0,85.*
 
@@ -574,6 +588,8 @@ Licencias comprobadas el **25/11/2026** en los datos de cada archivo. Para reuti
 | [Molinete](https://commons.wikimedia.org/wiki/File:Winch_thistlegorm.jpg) | Albert Kok · sin fecha | CC BY-SA 3.0 |
 | [Cubierta superior](https://commons.wikimedia.org/wiki/File:SS_Thistlegorm_upper_deck.jpg) | Hagainativ · 8/10/2010 | CC BY-SA 3.0 |
 | [Cámara de vídeo dentro del pecio](https://commons.wikimedia.org/wiki/File:Videographer_in_Thistlegorm.jpg) | Tim Sheerman-Chase · 4/9/2007 | CC BY 2.0 |
+
+Además, el §5.3 tiene 4 fotos de la munición y los cañones, y el §12 tiene 16 fotos de animales y 6 de «vegetación», todas con licencia libre y enlace a su página.
 
 Hay más de 70 archivos buscando «Thistlegorm» en [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Thistlegorm&title=Special:MediaSearch&type=image).
 
