@@ -380,7 +380,7 @@ The team of **Chloe Lee and Stefano Goffredo** (University of Bologna) analysed 
 
 ### 12.3 Animals you can see
 
-Click each photo to open its Wikimedia Commons page, with the full image, author and licence. Those marked 📍 were taken **on the Thistlegorm itself**; the rest show the **same species in the Red Sea** (or nearby), so you can see what the animal looks like.
+Click each photo to open its Wikimedia Commons page, with the full image, author and licence. Those marked 📍 were taken **on the Thistlegorm itself**; the rest show the **same species in the Red Sea** (or nearby), so you can see what the animal looks like. My own photos from the wreck (batfish, lionfish, scorpionfish, soldierfish, sergeant major) are in [§18.0](#180-my-own-photos-of-the-thistlegorm-2425-may-2021).
 
 | Photo | Animal | Scientific name | Usually where | Author · licence |
 |---|---|---|---|---|
@@ -562,6 +562,18 @@ Parts lost or removed according to Brown & Henderson (2025) and other sources:
 ---
 
 ## 18. Photos and videos
+
+### 18.0 My own photos of the Thistlegorm (24–25 May 2021)
+
+Photos I took on my dives on the wreck, posted on my Instagram ([@oskillar28](https://www.instagram.com/oskillar28/)) with the location "SS Thistlegorm". Camera: Olympus Tough TG-6.
+
+<table>
+<tr><td align="center" width="33%"><a href="fotos/mastil-cabos-amarre.jpg"><img src="fotos/mastil-cabos-amarre.jpg" width="260"></a><br><sub>The mast with dive-boat mooring lines tied to the wreck (see §13)</sub></td><td align="center" width="33%"><a href="fotos/motos-bodega.jpg"><img src="fotos/motos-bodega.jpg" width="260"></a><br><sub>Motorcycles from the cargo in a hold, covered in silt</sub></td><td align="center" width="33%"><a href="fotos/rueda-camion.jpg"><img src="fotos/rueda-camion.jpg" width="260"></a><br><sub>A truck wheel in the hold and a soldierfish</sub></td></tr>
+<tr><td align="center" width="33%"><a href="fotos/pez-murcielago.jpg"><img src="fotos/pez-murcielago.jpg" width="260"></a><br><sub>Batfish (*Platax*) among divers' bubbles</sub></td><td align="center" width="33%"><a href="fotos/pez-leon.jpg"><img src="fotos/pez-leon.jpg" width="260"></a><br><sub>Lionfish (*Pterois miles*)</sub></td><td align="center" width="33%"><a href="fotos/pez-escorpion.jpg"><img src="fotos/pez-escorpion.jpg" width="260"></a><br><sub>Camouflaged scorpionfish</sub></td></tr>
+<tr><td align="center" width="33%"><a href="fotos/pez-sargento.jpg"><img src="fotos/pez-sargento.jpg" width="260"></a><br><sub>Sergeant major (*Abudefduf*) inside a pipe of the ship</sub></td><td align="center" width="33%"><a href="fotos/peces-soldado.jpg"><img src="fotos/peces-soldado.jpg" width="260"></a><br><sub>Soldierfish (squirrelfish family, probably *Myripristis*) on the structure</sub></td><td align="center" width="33%"><a href="fotos/coral.jpg"><img src="fotos/coral.jpg" width="260"></a><br><sub>Plate-shaped hard coral</sub></td></tr>
+</table>
+
+> 📷 **© Óscar Ramírez Martín.** These photos are not covered by the text's free licence: ask me before reusing them. The coral and lionfish photos were posted with the wreck's location but may come from the nearby reef on the same trip.
 
 ### 18.1 Freely licensed photos (Wikimedia Commons)
 

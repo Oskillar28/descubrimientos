@@ -380,7 +380,7 @@ El equipo de **Chloe Lee y Stefano Goffredo** (Universidad de Bolonia) analizó 
 
 ### 12.3 Animales que se ven
 
-Pulsa cada foto para abrir su página en Wikimedia Commons, con la imagen grande, el autor y la licencia. Las marcadas con 📍 están hechas **en el propio Thistlegorm**; las demás son de la **misma especie en el mar Rojo** (o cerca), para que se vea cómo es el animal.
+Pulsa cada foto para abrir su página en Wikimedia Commons, con la imagen grande, el autor y la licencia. Las marcadas con 📍 están hechas **en el propio Thistlegorm**; las demás son de la **misma especie en el mar Rojo** (o cerca), para que se vea cómo es el animal. Mis propias fotos del pecio (pez murciélago, pez león, pez escorpión, peces soldado, pez sargento) están en el [§18.0](#180-mis-fotos-del-thistlegorm-24-y-25-de-mayo-de-2021).
 
 | Foto | Animal | Nombre científico | Dónde suele estar | Autor · licencia |
 |---|---|---|---|---|
@@ -562,6 +562,18 @@ Lista de piezas perdidas o arrancadas según Brown y Henderson (2025) y otras fu
 ---
 
 ## 18. Fotos y vídeos
+
+### 18.0 Mis fotos del Thistlegorm (24 y 25 de mayo de 2021)
+
+Fotos hechas por mí en mis inmersiones en el pecio y publicadas en mi Instagram ([@oskillar28](https://www.instagram.com/oskillar28/)) con la ubicación «SS Thistlegorm». Cámara: Olympus Tough TG-6.
+
+<table>
+<tr><td align="center" width="33%"><a href="fotos/mastil-cabos-amarre.jpg"><img src="fotos/mastil-cabos-amarre.jpg" width="260"></a><br><sub>El mástil con los cabos de amarre de los barcos de buceo atados al pecio (ver §13)</sub></td><td align="center" width="33%"><a href="fotos/motos-bodega.jpg"><img src="fotos/motos-bodega.jpg" width="260"></a><br><sub>Motos de la carga en una bodega, cubiertas de sedimento</sub></td><td align="center" width="33%"><a href="fotos/rueda-camion.jpg"><img src="fotos/rueda-camion.jpg" width="260"></a><br><sub>Rueda de un camión en la bodega y un pez soldado</sub></td></tr>
+<tr><td align="center" width="33%"><a href="fotos/pez-murcielago.jpg"><img src="fotos/pez-murcielago.jpg" width="260"></a><br><sub>Pez murciélago (*Platax*) entre las burbujas de los buceadores</sub></td><td align="center" width="33%"><a href="fotos/pez-leon.jpg"><img src="fotos/pez-leon.jpg" width="260"></a><br><sub>Pez león (*Pterois miles*)</sub></td><td align="center" width="33%"><a href="fotos/pez-escorpion.jpg"><img src="fotos/pez-escorpion.jpg" width="260"></a><br><sub>Pez escorpión camuflado</sub></td></tr>
+<tr><td align="center" width="33%"><a href="fotos/pez-sargento.jpg"><img src="fotos/pez-sargento.jpg" width="260"></a><br><sub>Pez sargento (*Abudefduf*) dentro de un tubo del barco</sub></td><td align="center" width="33%"><a href="fotos/peces-soldado.jpg"><img src="fotos/peces-soldado.jpg" width="260"></a><br><sub>Peces soldado (familia de los peces ardilla, probablemente *Myripristis*) en la estructura</sub></td><td align="center" width="33%"><a href="fotos/coral.jpg"><img src="fotos/coral.jpg" width="260"></a><br><sub>Coral duro en láminas</sub></td></tr>
+</table>
+
+> 📷 **© Óscar Ramírez Martín.** Estas fotos no están bajo la licencia libre del texto: para reutilizarlas hay que pedirme permiso. Las del coral y el pez león se publicaron con la ubicación del pecio, pero podrían ser del arrecife cercano en la misma salida.
 
 ### 18.1 Fotos con licencia libre (Wikimedia Commons)
 
