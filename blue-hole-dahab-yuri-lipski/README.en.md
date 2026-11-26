@@ -9,14 +9,14 @@
 
 > 📄 **Full study (extended edition, PDF):** [Study_Yuri_Lipski_Dahab_Blue_Hole.pdf](Study_Yuri_Lipski_Dahab_Blue_Hole.pdf). It also covers the geography of the Red Sea and the Gulf of Aqaba, Dahab's marine life, and a profile of Tarek Omar with his method for recovering bodies.
 
-> 🎬 **Video summary (7 min):** click the image to watch it in your browser · [download MP4](video/Video_Yuri_Lipski_Dahab_Blue_Hole_EN.mp4) · [versión en castellano](https://oskillar28.github.io/blue-hole-dahab-yuri-lipski/video/)
+> 🎬 **Video summary (7 min):** click the image to watch it in your browser · [download MP4](video/Video_Yuri_Lipski_Dahab_Blue_Hole_EN.mp4) · [versión en castellano](https://oskillar28.github.io/descubrimientos/blue-hole-dahab-yuri-lipski/video/)
 >
-> [![Watch the video summary of the study](video/miniatura_en.jpg)](https://oskillar28.github.io/blue-hole-dahab-yuri-lipski/video/#en)
+> [![Watch the video summary of the study](video/miniatura_en.jpg)](https://oskillar28.github.io/descubrimientos/blue-hole-dahab-yuri-lipski/video/#en)
 
 > ⚠️ **A note of respect.** This study deals with the real death of a 22-year-old man. It does not link to or reproduce the footage of his death and contains no photographs of him. The aim is to understand **why** it happened so that it does not happen again.
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> **Dahab Blue Hole (Yuri Lipski, 2000)** (this study) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> **Dahab Blue Hole (Yuri Lipski, 2000)** (this study) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/descubrimientos/tree/main/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
 
 ![The Dahab Blue Hole seen from the shore](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dahab_Blue_Hole.jpg)
 *The Blue Hole of Dahab (Egypt). Photo: Gustavo Gerdel, CC BY-SA 4.0, via Wikimedia Commons.*

@@ -8,7 +8,7 @@
 > Based on cross-checked public sources and my own calculations.
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · **Plura cave (Norway, 2014)** (this study) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · **Plura cave (Norway, 2014)** (this study) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
 
 > ⚠️ **A note of respect.** This study deals with the real deaths of two Finnish divers. It includes no images of the victims and no links to their helmet-camera footage of the accident. The aim is to understand **what happened**, **why**, and **what was learned**.
 
@@ -552,7 +552,7 @@ A curious detail: no fish are believed to live in the cave, yet one scene in the
 **The link with Vaavu**
 
 - **Divernet** (05/2026). *Finnish cave divers reach Maldives on recovery mission*. https://divernet.com/scuba-news/health-safety/death/finnish-cave-divers-reach-maldives-on-recovery-mission/
-- My own study: *The Vaavu Cave Tragedy (Maldives, 2026)*. https://github.com/Oskillar28/cueva-vaavu-maldivas
+- My own study: *The Vaavu Cave Tragedy (Maldives, 2026)*. https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas
 
 **Other accidents**
 

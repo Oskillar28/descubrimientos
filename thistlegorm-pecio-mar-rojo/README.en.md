@@ -9,10 +9,10 @@
 
 > ⚠️ **A note of respect.** The Thistlegorm is the grave of **nine men** who died on 6 October 1941. This study does not encourage anyone to touch or take anything from the wreck.
 
-> 🎬 **Video of the study in English (8 min):** [oskillar28.github.io/thistlegorm-pecio-mar-rojo/en.html](https://oskillar28.github.io/thistlegorm-pecio-mar-rojo/en.html) · [Spanish version (7 min)](https://oskillar28.github.io/thistlegorm-pecio-mar-rojo/)
+> 🎬 **Video of the study in English (8 min):** [oskillar28.github.io/descubrimientos/thistlegorm-pecio-mar-rojo/en.html](https://oskillar28.github.io/descubrimientos/thistlegorm-pecio-mar-rojo/en.html) · [Spanish version (7 min)](https://oskillar28.github.io/descubrimientos/thistlegorm-pecio-mar-rojo/)
 
 > 📚 **Series of studies on wrecks and diving accidents** by the same author:
-> [RMS Titanic](https://github.com/Oskillar28/titanic-pecio-historia) · [Britannic (Carl Spencer, 2009)](https://github.com/Oskillar28/britannic-carl-spencer) · **SS Thistlegorm** (this study) · [Blue Hole, Dahab](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Plura cave](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [RMS Titanic](https://github.com/Oskillar28/descubrimientos/tree/main/titanic-pecio-historia) · [Britannic (Carl Spencer, 2009)](https://github.com/Oskillar28/descubrimientos/tree/main/britannic-carl-spencer) · **SS Thistlegorm** (this study) · [Blue Hole, Dahab](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · [Boesmansgat](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · [Zacatón](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · [Plura cave](https://github.com/Oskillar28/descubrimientos/tree/main/plura-cueva-noruega) · [Vaavu cave](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pecio_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_01.jpg/1280px-Pecio_SS_Thistlegorm%2C_mar_Rojo%2C_Egipto%2C_2022-03-29%2C_DD_01.jpg" width="760" alt="The SS Thistlegorm wreck in 2022">
@@ -523,7 +523,7 @@ Parts lost or removed according to Brown & Henderson (2025) and other sources:
 | Pieces already **fallen to the seabed** away from the ship | **Perhaps, after 3D documentation** | Already moved; being lost in the sand | 0.5 |
 | Ship's bell | Already gone; it would need to be **found** and returned to a museum | The most symbolic object | 0.7 |
 
-> 🔗 **Comparison with the rest of the series:** on the [Titanic](https://github.com/Oskillar28/titanic-pecio-historia), at 3,800 m, thousands of objects were raised amid huge debate. On the [Britannic](https://github.com/Oskillar28/britannic-carl-spencer), a small selection was raised in 2025 with Greek state permission for a public museum. The Thistlegorm is the opposite: **any diver can reach it**, so the problem is not who raises objects officially but **who takes them without permission**.
+> 🔗 **Comparison with the rest of the series:** on the [Titanic](https://github.com/Oskillar28/descubrimientos/tree/main/titanic-pecio-historia), at 3,800 m, thousands of objects were raised amid huge debate. On the [Britannic](https://github.com/Oskillar28/descubrimientos/tree/main/britannic-carl-spencer), a small selection was raised in 2025 with Greek state permission for a public museum. The Thistlegorm is the opposite: **any diver can reach it**, so the problem is not who raises objects officially but **who takes them without permission**.
 
 > 🧠 **My conclusion (reasoned opinion, not a truth):** the best option is to **leave the wreck in place** and protect it with (1) **mooring buoys** that are maintained, (2) **legal protection** before 2041, (3) **supervision and guides** who do not allow touching, and (4) **repeated 3D models** to measure change. Only small pieces at immediate risk of theft should be raised, by an Egyptian museum with conservation ready. *Confidence 0.65.*
 

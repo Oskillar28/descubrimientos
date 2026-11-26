@@ -8,7 +8,7 @@
 > Elaborado a partir de fuentes públicas contrastadas y de cálculos propios.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
-> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · **Cueva de Plura (Noruega, 2014)** (este estudio) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · **Cueva de Plura (Noruega, 2014)** (este estudio) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
 
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de dos buceadores finlandeses. No incluye imágenes de las víctimas ni enlaces a las grabaciones de sus cámaras en el momento del accidente. El objetivo es entender **qué pasó**, **por qué** y **qué se aprendió**.
 
@@ -552,7 +552,7 @@ Un detalle curioso: se cree que **no hay peces** en la cueva, pero en una escena
 **El enlace con Vaavu**
 
 - **Divernet** (05/2026). *Finnish cave divers reach Maldives on recovery mission*. https://divernet.com/scuba-news/health-safety/death/finnish-cave-divers-reach-maldives-on-recovery-mission/
-- Estudio propio: *La tragedia de la cueva de Vaavu (Maldivas, 2026)*. https://github.com/Oskillar28/cueva-vaavu-maldivas
+- Estudio propio: *La tragedia de la cueva de Vaavu (Maldivas, 2026)*. https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas
 
 **Otros accidentes**
 

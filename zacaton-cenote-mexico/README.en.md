@@ -12,7 +12,7 @@
 > ⚠️ **A note of respect.** This study deals with the real death of Sheck Exley in 1994. It contains no photographs of his body or of the recovery. The aim is to understand **what Zacatón is and why it is so dangerous**.
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> [Blue Hole, Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · **Zacatón (Sheck Exley, 1994)** (this study) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Blue Hole, Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · **Zacatón (Sheck Exley, 1994)** (this study) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/descubrimientos/tree/main/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
 
 ---
 

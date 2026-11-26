@@ -12,8 +12,8 @@
 > ⚠️ **A note of respect.** This study deals with the real death of Carl Spencer (2009) and, more briefly, those of Tim Saville and Vincent Hong (2019). Their families may read it. It contains no images of their bodies and does not set out to blame anyone. Anything not confirmed by an official source is presented as a **hypothesis**, with a confidence level (0–1).
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> [Blue Hole, Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · **Britannic (Carl Spencer, 2009)** (this study) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
-> A follow-up to [RMS Titanic: from the shipyard to the abyss](https://github.com/Oskillar28/titanic-pecio-historia).
+> [Blue Hole, Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · **Britannic (Carl Spencer, 2009)** (this study) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/descubrimientos/tree/main/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
+> A follow-up to [RMS Titanic: from the shipyard to the abyss](https://github.com/Oskillar28/descubrimientos/tree/main/titanic-pecio-historia).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/HMHS_Britannic.jpg/1280px-HMHS_Britannic.jpg" width="760" alt="HMHS Britannic as a hospital ship">
@@ -408,7 +408,7 @@ Between **6 and 13 May 2025**, a team of 11 rebreather divers, organised by Simo
 
 It was announced on 15 September 2025. The objects are being conserved in Athens for the future **Museum of Underwater Archaeology in Piraeus**. Some planned objects could not be raised because of currents and poor visibility.
 
-> 🔗 This links to the debate in the [Titanic study](https://github.com/Oskillar28/titanic-pecio-historia) on whether objects should be raised from a wreck: on Britannic it has been done with state permission, as a small selection and for a public museum.
+> 🔗 This links to the debate in the [Titanic study](https://github.com/Oskillar28/descubrimientos/tree/main/titanic-pecio-historia) on whether objects should be raised from a wreck: on Britannic it has been done with state permission, as a small selection and for a public museum.
 
 ---
 

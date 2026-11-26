@@ -12,7 +12,7 @@
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de dos personas, un chico de 20 años y un piloto de 50, y el duelo de sus familias. No enlaza ni reproduce la grabación de la muerte de Dave Shaw y no incluye fotografías de los cuerpos. El objetivo es entender **por qué** ocurrió, para que no vuelva a ocurrir.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
-> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · **Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)** (este estudio) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · **Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)** (este estudio) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/descubrimientos/tree/main/plura-cueva-noruega) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
 
 ---
 
@@ -444,7 +444,7 @@ flowchart LR
 | Año del accidente de Deon | 1994 (casi todas) | 1995 (Gadling) | **1994** |
 | Con quién buceaba Deon | Equipo de Nuno Gomes / SACDA | «con su padre» (*Mail & Guardian*) | **Con el equipo**; lo de su padre no lo confirma ninguna otra fuente |
 | Causa de la muerte de Deon | CO₂ (*Outside*) | Toxicidad del oxígeno (blogs) | **CO₂**, más compatible con 50 m; sin confirmar |
-| Profundidad de Exley en Zacatón | 276 m / 906 pies (Wikipedia, *Valdosta Daily Times*, Undercurrent) | 268 m / 879 pies (análisis médico en *Pressure*, UHMS, 1994) | **Entre 268 y 276 m**: no se puede resolver. Más detalle en el [estudio del Zacatón](https://github.com/Oskillar28/zacaton-cenote-mexico) |
+| Profundidad de Exley en Zacatón | 276 m / 906 pies (Wikipedia, *Valdosta Daily Times*, Undercurrent) | 268 m / 879 pies (análisis médico en *Pressure*, UHMS, 1994) | **Entre 268 y 276 m**: no se puede resolver. Más detalle en el [estudio del Zacatón](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) |
 | Día en que apareció el cuerpo de Exley | 8 de abril, dos días después (*Pressure*) | 9 de abril, tres días después (Undercurrent) | **8 o 9 de abril de 1994** |
 | Vínculo con Mary Ellen Eckhoff, en el equipo de apoyo | Esposa (vídeos, Northwestern) | Exesposa (*LADbible*) | **Sin confirmar** |
 

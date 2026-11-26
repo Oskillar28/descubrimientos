@@ -15,8 +15,8 @@
 ## 🎬 El estudio en vídeo
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/Oskillar28/titanic-pecio-historia@70073ea/video/Titanic_estudio_video.mp4"><img src="video/miniatura.jpg" width="760" alt="Ver el vídeo resumen del estudio"></a>
-  <br><sub><i>Resumen animado de todo el estudio en 8 minutos, con voz en off en castellano. Pulsa la imagen para verlo en el navegador. También disponible <a href="https://cdn.jsdelivr.net/gh/Oskillar28/titanic-pecio-historia@70073ea/video/Titanic_study_video_EN.mp4">en inglés</a>.</i></sub>
+  <a href="https://cdn.jsdelivr.net/gh/Oskillar28/descubrimientos@main/titanic-pecio-historia/video/Titanic_estudio_video.mp4"><img src="video/miniatura.jpg" width="760" alt="Ver el vídeo resumen del estudio"></a>
+  <br><sub><i>Resumen animado de todo el estudio en 8 minutos, con voz en off en castellano. Pulsa la imagen para verlo en el navegador. También disponible <a href="https://cdn.jsdelivr.net/gh/Oskillar28/descubrimientos@main/titanic-pecio-historia/video/Titanic_study_video_EN.mp4">en inglés</a>.</i></sub>
 </p>
 
 ---

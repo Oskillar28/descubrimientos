@@ -15,8 +15,8 @@
 ## 🎬 The study on video
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/Oskillar28/titanic-pecio-historia@70073ea/video/Titanic_study_video_EN.mp4"><img src="video/thumbnail_en.jpg" width="760" alt="Watch the video summary of the study"></a>
-  <br><sub><i>A 7-minute animated summary of the whole study, narrated in English. Click the image to watch it in your browser. Also available <a href="https://cdn.jsdelivr.net/gh/Oskillar28/titanic-pecio-historia@70073ea/video/Titanic_estudio_video.mp4">in Spanish</a>.</i></sub>
+  <a href="https://cdn.jsdelivr.net/gh/Oskillar28/descubrimientos@main/titanic-pecio-historia/video/Titanic_study_video_EN.mp4"><img src="video/thumbnail_en.jpg" width="760" alt="Watch the video summary of the study"></a>
+  <br><sub><i>A 7-minute animated summary of the whole study, narrated in English. Click the image to watch it in your browser. Also available <a href="https://cdn.jsdelivr.net/gh/Oskillar28/descubrimientos@main/titanic-pecio-historia/video/Titanic_estudio_video.mp4">in Spanish</a>.</i></sub>
 </p>
 
 ---

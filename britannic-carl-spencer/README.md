@@ -12,8 +12,8 @@
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de Carl Spencer (2009) y, más brevemente, las de Tim Saville y Vincent Hong (2019). Sus familias pueden leerlo. No incluye imágenes de sus cuerpos ni pretende señalar culpables. Todo lo que no está confirmado por una fuente oficial aparece como **hipótesis**, con un nivel de confianza (0–1).
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
-> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · **Britannic (Carl Spencer, 2009)** (este estudio) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
-> Continuación de [RMS Titanic: del astillero al abismo](https://github.com/Oskillar28/titanic-pecio-historia).
+> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/descubrimientos/tree/main/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/descubrimientos/tree/main/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/descubrimientos/tree/main/zacaton-cenote-mexico) · **Britannic (Carl Spencer, 2009)** (este estudio) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/descubrimientos/tree/main/plura-cueva-noruega) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/descubrimientos/tree/main/cueva-vaavu-maldivas)
+> Continuación de [RMS Titanic: del astillero al abismo](https://github.com/Oskillar28/descubrimientos/tree/main/titanic-pecio-historia).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/HMHS_Britannic.jpg/1280px-HMHS_Britannic.jpg" width="760" alt="El HMHS Britannic como buque hospital">
@@ -408,7 +408,7 @@ Entre el **6 y el 13 de mayo de 2025**, un equipo de 11 buceadores con rebreathe
 
 Se anunció el 15 de septiembre de 2025. Los objetos se conservan en Atenas para el futuro **Museo de Arqueología Subacuática del Pireo**. Algunos objetos previstos no se pudieron subir por las corrientes y la poca visibilidad.
 
-> 🔗 Enlaza con el debate del [estudio del Titanic](https://github.com/Oskillar28/titanic-pecio-historia) sobre si se deben subir objetos de un pecio: en el Britannic se ha hecho con permiso del Estado, una selección pequeña y destino a un museo público.
+> 🔗 Enlaza con el debate del [estudio del Titanic](https://github.com/Oskillar28/descubrimientos/tree/main/titanic-pecio-historia) sobre si se deben subir objetos de un pecio: en el Britannic se ha hecho con permiso del Estado, una selección pequeña y destino a un museo público.
 
 ---
 
